@@ -65,7 +65,6 @@ Analyzing the gathered data, we discovered the following:
 2. **Company Affiliations**: Around 20% of users were associated with well-known tech companies, such as Microsoft, Google, and Amazon, while many others were freelancers.
 
 3. **Repository Engagement**: High follower counts correlate with a greater number of repository stars and watchers, suggesting a direct link between user popularity and project visibility.
-![alt text](image1-1.png) ![alt text](image2-1.png)
 
 ---
 
