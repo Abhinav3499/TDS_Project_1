@@ -1,6 +1,3 @@
-# TDS Project 1
-
-Here’s a `README.md` for this GitHub scraping project:
 
 ---
 
